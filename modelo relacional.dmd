@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo relacional" id="521BFEC9-3487-26D9-2020-91308D4008FB" version="3.5">
+<createdBy>VAIO</createdBy>
+<createdTime>2016-04-27 01:12:28 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>modelo relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>521BFEC9-3487-26D9-2020-91308D4008FB</designId>
+</OSDM_Design>
